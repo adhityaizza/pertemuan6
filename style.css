@@ -1,0 +1,30 @@
+.table{
+    width: 100%;
+    padding: 0;
+}
+.td-kiri{
+    width: 30%;
+    height: 500px;
+    /* background-color: #16a085; */
+}
+.td-kanan{
+    width: 70%;
+    height: 500px;
+    /* background-color: #16a085; */
+}
+
+.sidenav{
+    color: #000000;
+}
+
+.hero{
+    background-image: url('https://ca-times.brightspotcdn.com/dims4/default/4f9761e/2147483647/strip/true/crop/3500x1969+0+0/resize/1200x675!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa3%2Fbc%2F967153f7443ab69d6b182b91b1f4%2Ffo-quickbites-07102022-02.jpg');
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jar{
+height: 50px;
+}
